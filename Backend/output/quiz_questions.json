@@ -1,0 +1,59 @@
+{
+    "quiz_questions": [
+        {
+            "question": "What does the LAMP stack stand for in web development?",
+            "choices": [
+                "Linux, Angular, MongoDB, PHP",
+                "Linux, Apache, MySQL, Perl",
+                "Linux, Apache, MySQL, PHP",
+                "Linux, ASP, MariaDB, Python"
+            ],
+            "answer": "Linux, Apache, MySQL, PHP",
+            "your_answer": "Linux, Angular, MongoDB, PHP"
+        },
+        {
+            "question": "Which component of a technology stack is the Linux operating system a part of?",
+            "choices": [
+                "Front-end frameworks",
+                "Data and database",
+                "Back-end skills",
+                "Operating system"
+            ],
+            "answer": "Operating system",
+            "your_answer": "Front-end frameworks"
+        },
+        {
+            "question": "Which of these is not a part of the back-end skills in a technology stack?",
+            "choices": [
+                "Web server",
+                "Programming language",
+                "Web framework",
+                "Content management system"
+            ],
+            "answer": "Content management system",
+            "your_answer": "Programming language"
+        },
+        {
+            "question": "What does the acronym HTML stand for in web development?",
+            "choices": [
+                "HyperText Transfer Markup Language",
+                "HyperText Test Markdown Language",
+                "Hyper Transfer Text Markup Language",
+                "HyperText Makeup Language"
+            ],
+            "answer": "HyperText Transfer Markup Language",
+            "your_answer": "HyperText Test Markdown Language"
+        },
+        {
+            "question": "What is the role of a Content Management System (CMS) in web development?",
+            "choices": [
+                "Database management",
+                "Web design",
+                "Web development project scoping",
+                "Web content management"
+            ],
+            "answer": "Web content management",
+            "your_answer": "Web design"
+        }
+    ]
+}
